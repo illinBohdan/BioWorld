@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BioWorld:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BioWorld_jar</output-path>
+    <root id="archive" name="BioWorld.jar">
+      <element id="module-output" name="BioWorld" />
+    </root>
+  </artifact>
+</component>
